@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     template: "%s | Next 15 Social Media ",
     default: "Next 15 Social Media ",
   },
-  description: "The Social media app for  Next 15 rc",
+  description: "The Social media app for  rc",
 };
 
 export default function RootLayout({
