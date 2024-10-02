@@ -13,7 +13,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | Next 15 Social Media ",
+    template: "%s | Next 15  Media ",
     default: "Next 15 Social Media ",
   },
   description: "The Social media app for  rc",
